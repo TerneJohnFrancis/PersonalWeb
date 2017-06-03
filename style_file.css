@@ -1,0 +1,23 @@
+img{
+width: 250px;
+height: 225px
+margin:auto;
+}
+li{
+color:#0000CD;
+font-family:Impact;
+font-size:19px;
+}
+p{
+color:#515151;
+font-family:helvetica;
+font-size:19px;
+width:750px;
+}
+html { 
+  background: url("1ST v2.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
